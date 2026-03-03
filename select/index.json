@@ -1,0 +1,80 @@
+{
+  "version": 1,
+  "base_track": "贈る言葉",
+  "base_artist": "GReeeeN",
+  "createdAt": "2026-03-03T10:02:56.347171Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "贈る言葉",
+      "artist": "FLOW",
+      "has_synced": true,
+      "path": "select/01_贈る言葉_FLOW.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "贈る言葉",
+      "artist": "Kaientai",
+      "has_synced": true,
+      "path": "select/02_贈る言葉_Kaientai.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "贈る言葉",
+      "artist": "海援隊",
+      "has_synced": true,
+      "path": "select/03_贈る言葉_海援隊.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "贈る言葉",
+      "artist": "海援隊",
+      "has_synced": false,
+      "path": "select/04_贈る言葉_海援隊.txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "贈る言葉",
+      "artist": "FLOW",
+      "has_synced": false,
+      "path": "select/05_贈る言葉_FLOW.txt"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "贈る言葉 - Okuru Kotoba",
+      "artist": "Kaientai",
+      "has_synced": true,
+      "path": "select/06_贈る言葉_-_Okuru_Kotoba_Kaientai.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "贈る言葉",
+      "artist": "大橋トリオ",
+      "has_synced": true,
+      "path": "select/07_贈る言葉_大橋トリオ.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "贈る言葉",
+      "artist": "フロウ F.L.O.W",
+      "has_synced": true,
+      "path": "select/08_贈る言葉_フロウ_F.L.O.W.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "贈る言葉",
+      "artist": "GReeeeN",
+      "has_synced": false,
+      "path": "select/pl_01_贈る言葉_GReeeeN.txt"
+    }
+  ]
+}
